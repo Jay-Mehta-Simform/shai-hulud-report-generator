@@ -1,6 +1,6 @@
 # NPM Package Dependency Checker
 
-A Node.js utility to scan projects for compromised npm packages by checking against the latest list from [Wiz Security's research repository](https://github.com/wiz-sec-public/wiz-research-iocs).
+A Node.js utility to scan projects for compromised npm packages by checking against the latest list from [Wiz Security's research repository](https://github.com/wiz-sec-public/wiz-research-iocs) for the recent shai-hulud-2 security breach.
 
 ## Installation
 
